@@ -41,7 +41,7 @@ c2 = a2 + b2 − 2ab cos(C)
 
 ## The image below shows the demo
 
-<img src='Desktop/images.jpg'/>
+<img src='imagess/images.jpg'/>
 
 
 

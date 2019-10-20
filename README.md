@@ -24,9 +24,9 @@ The software then correlates each registered real-time gesture, interprets the g
 
 ![alt text](http://www.intorobotics.com/wp-content/uploads/2013/11/pdoj-vfkd90skjvf0dvdfv0df000000004.png)
 
-*Here is a gif. Reference = https://www.intorobotics.com/9-opencv-tutorials-hand-gesture-detection-recognition/*
+*Here is a gif. / Reference = https://www.intorobotics.com/9-opencv-tutorials-hand-gesture-detection-recognition/*
 
-<img src='imagess/gg.gif/'>
+![alt text](http://www.intorobotics.com/wp-content/uploads/2013/11/dsfdstg-5rdg-003.gif)
 
 # What is the cosine rule?
 
@@ -37,11 +37,11 @@ C is the angle opposite side c
 The Law of Cosines (also called the Cosine Rule) says:
 c2 = a2 + b2 − 2ab cos(C)
 
-<img src='Desktop/cosine formula.jpg'/>
+![alt text](https://www.mathsisfun.com/algebra/images/triangle-sides-angles.svg)
 
 ## The image below shows the demo
 
-<img src='imagess/images.jpg'/>
+![alt text](https://github.com/BoraKis/Hand-Gesture-Recognition/blob/master/Image1.PNG)
 
 
 

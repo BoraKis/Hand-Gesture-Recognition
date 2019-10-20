@@ -1,9 +1,3 @@
-Requirements
+About the Project
 
-Python 3
-OpenCv
-Numpy
-
-
-Available in file repositories
-Hand_haar_cascade.xml 
+In this application, the interpretation of these movements through mathematical algorithms is studied by using a camera that detects the hand movements of the user.

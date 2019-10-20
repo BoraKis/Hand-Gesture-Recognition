@@ -26,7 +26,7 @@ The software then correlates each registered real-time gesture, interprets the g
 
 *Here is a gif. Reference = https://www.intorobotics.com/9-opencv-tutorials-hand-gesture-detection-recognition/*
 
-<img src='imagess/gg.gif'>
+<img src='imagess/gg.gif/'>
 
 # What is the cosine rule?
 

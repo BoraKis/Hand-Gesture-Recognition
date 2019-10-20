@@ -32,6 +32,8 @@ The software then correlates each registered real-time gesture, interprets the g
 
 ## For any triangle:
 
+*Reference = https://www.mathsisfun.com/algebra/trig-cosine-law.html*
+
 a, b and c are sides.
 C is the angle opposite side c
 The Law of Cosines (also called the Cosine Rule) says:

@@ -20,9 +20,9 @@ Gesture recognition is a topic in computer science and language technology with 
 Specially designed software identifies meaningful gestures from a predetermined gesture library where each gesture is matched to a computer command.
 The software then correlates each registered real-time gesture, interprets the gesture and uses the library to identify meaningful gestures that match the library.
 
-*Hand Gesture Recognition Reference = https://www.intorobotics.com/9-opencv-tutorials-hand-gesture-detection-recognition/*
+*Convex hull enclosing the hand region / Reference = https://www.intorobotics.com/9-opencv-tutorials-hand-gesture-detection-recognition/*
 
-<img src='gesturerecognition.jpg'/>
+![alt text](http://www.intorobotics.com/wp-content/uploads/2013/11/pdoj-vfkd90skjvf0dvdfv0df000000004.png)
 
 *Here is a gif. Reference = https://www.intorobotics.com/9-opencv-tutorials-hand-gesture-detection-recognition/*
 
